@@ -1,0 +1,24 @@
+{
+  "name": "ts1",
+  "version": "1.0.0",
+  "description": "This is a master repository for indepth typescript projects",
+  "homepage": "https://github.com/SandeepTimalsina/Typescript-indepth#readme",
+  "bugs": {
+    "url": "https://github.com/SandeepTimalsina/Typescript-indepth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepTimalsina/Typescript-indepth.git"
+  },
+  "license": "MIT",
+  "author": "Sandeep",
+  "type": "commonjs",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
